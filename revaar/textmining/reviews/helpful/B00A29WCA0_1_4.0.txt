@@ -1,0 +1,155 @@
+272 of 278 people found the following review helpful
+
+4.0 out of 5 stars **Affordable GS3 in a smaller form factor!**, January 25,
+2013
+
+
+
+
+
+==UPDATE 3 Mar '13=== A Titan Grey version of the Galaxy S III Mini i8190 is
+also available with some of the very same Amazon sellers now!
+
+  
+So I bought this phone to replace an iPhone 4. Been having it for 2 years and
+the antennagate issue's been getting worse especially this year... So I
+thought I'd make a small phone upgrade and I got the S3 Mini.
+
+  
+My thoughts on this phone after using it for 2 months.
+
+  
+BEWARE: Before buying this phone, CHECK YOUR MOBILE CARRIER'S NETWORK
+BROADCASTING FREQUENCY BEFORE BUYING THIS PHONE, THIS IS A POTENTIAL
+INCOMPATIBILITY IF YOU HAVEN'T CHECKED.
+
+==================================================================
+
+  
+Pros:
+
+-Very light for its size, isn't too big  
+-3.5G is pretty fast (Btw the power saver feature can throttle your bandwidth aka internet "speed" apart from the processor)  
+-Android 4.1 preloaded  
+-Very smooth UI  
+-Still has the good multitasking feature on GS3  
+-(Call Quality) So I tested its battery life with voice calls. On one occasion, I had a 1 hour long call and it battery was down from 100% to 90%. So that equates to probably a 10 hr continuous talktime with a full charge. Very clear speaker  
+-Touching/Pointing is accurate  
+-Sensitive screen  
+  
+Neutral:
+
+-Battery Life (expected it to be better, still pretty decent though)  
+-Rendering lag on certain websites that contain a lot of images  
+-Screen resolution (Though the resolution isn't high, pixelation isn't obvious from viewing distance. Its not grainy and still very clear  
+-Direct Call isn't always responsive. I think the camera doesn't see your ear always while you're messaging or in the contact list. It might take 1-2 more tries.  
+-Screen contrast & brightness - Excellent indoors, good outdoors (without direct sun). Could have done better under direct sunlight ("By design" of AMOLED).  
+  
+Cons:
+
+-"Actual" Free internal memory is about 4.5GB/8GB  
+-Contains some bloatware that autostarts and clogs the system by Samsung & Other parties I'll list them below.  
+-Minijack is a little soft with the volume.  
+-MAJOR CONS: You can't put your apps on the SD card without rooting it.. Firmware limitation on Samsung's side most probably :(  
+  
+Bloatware in my opinion (These apps can autostart and they "revive" when you
+attempt to kill them) They clog RAM, have a toll on the battery life as they
+attempt to communicate with the internet or use the processor mainly.
+
+To disable these services/apps -> Application Manager -> All -> Locate them ->
+Uninstall updates/Disable -> Disable -> Restart your phone
+
+1.SNS (Facebook integration stuff)
+
+2.Street View
+
+3.Samsung Account
+
+4.S Voice (If you don't need a voice assistant)
+
+5.Help
+
+6.GTalk (You gotta be in the right context menu to sign out of GTalk/Gmail
+Chat)
+
+7.Google Search app (there's already a Chrome)
+
+8.Google Plus
+
+9.Samsung Chat On
+
+10.Polaris viewer 4.1 (It keeps popping up the dialogue asking you to purchase
+the pro version.. I disabled it and got adobe reader and a free office app)
+
+11. Samsung's "Music Player" (Not a bloatware but its is quite clunky. "Google
+Play Music", Google's Music player app from the play store's a lot more easier
+to use and integrates better to the notification screen. Upon installation,
+turn "3D effect" off if you don't want your music to sound like its from a
+metal box.)
+
+  
+Conclusion:
+
+This phone's great for my use. As an ex-iOS user, I found the Android OS to be
+a lot less restrictive and apps were better integrated. Good call quality,
+good reception.
+
+  
+Out-of-the-box experience was 3/5 imo largely due to high amounts of bloatware
+that are turned on by default, if you tweaked these stuff by disabling them
+you should be able to optimise RAM usage and increase your battery life by a
+noticeable margin.
+
+  
+I bought a 16GB Micro SD for this phone because I thought apps would run on it
+but unfortunately, no. I do hope this feature will be enabled via a software
+update some time in the future.. because 4.5GB/8GB of unused NAND on the GS3
+Mini's abit too low if you're a smartphone gamer (fortunately I'm not).
+
+  
+The biggest plus? Price. Absolutely great value and I am keeping this phone.
+
+  
+Overall, 4/5. :)
+
+======================
+
+If this info's helpful, mark it as a helpful post to allow others to get the
+message. Honestly, I like Samsung hardware (look at my profile) but these are
+the pros & cons I've identified. I do like this phone but it isn't perfect,
+certain limitations listed above may be hated by some (SD card doesn't store
+apps), a non-issue to others. If you could live with those limitations, I'm
+pretty sure you'll love this phone.
+
+  
+======================
+
+Just an additional note to anyone interested in this phone FOR the SERIOUS
+buyers...
+
+  
+The Galaxy S3 Mini is NOT an officially sold product in the US, Samsung's
+probably tired of the Apple litigation and they're not wanting to create any
+circumstance that would create more accusations against them. To me, this is a
+loss for fellow US consumers.
+
+  
+On the product itself... most likely the seller(s) would have acquired the
+phone directly from Europe (probably the UK or Germany). This is a parallel
+imported product.
+
+1. Don't expect your manual or GS3Mini's "setup language" to be english. You
+should've seen this coming.
+
+2. As I've said in the review, network compatibility - your carrier's
+frequency - don't complain if your phone does not call if you haven't made
+this check.
+
+3. IMPORTANT: Since the product is a parallel import, YOUR TRUST to YOUR
+SELLER is KEY in this types of purchase. Consider the seller's:
+
+-Reputation and seller review. Poor delivery, opened/used product etc in reviews  
+-The reputation and track record is a good indicator if the seller's handled the GS3 and its packaging properly (Lower chances of DOA)  
+-Assuming these 2 "factors" are considered, find out if the seller's item is "FULFILLED BY AMAZON" or the seller. You know what I'm talking about :) Amazon's extremely efficient shipment ETA.  
+-If prices are *almost* the same between a "Fufilled by Amazon" vs a complete 3rd party, go for the Amazon. If the 3rd party's giving you a better deal in pricing, you probably should give the 3rd party a try. :) 
+

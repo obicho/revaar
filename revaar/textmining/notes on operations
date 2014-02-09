@@ -1,0 +1,33 @@
+Summary creationchr
+
+1. find bigram for each product
+2. if bigram list is the same, stop. if not, continues.
+3. insert bigrams into DB for each product
+4. extract sentence(s) and review id(s)
+5. insert sentences or phrases and review ids into db for each product (bigram, sentences, review ids)
+
+Release
+1. Put up temp update page
+2. Update local code and database
+3. Use git aws.push to commit code to production
+4. Transfer database
+5. Remove temp update page
+
+
+Update routine
+
+1. For each product
+	run update route based on review date
+		if date > last import date
+			import review
+			create summary
+
+
+Import review
+1. amazon workflow
+2. frys/best buy workflow
+3. consumer report workflow
+4. twitter workflow
+5. generic workflow
+
+

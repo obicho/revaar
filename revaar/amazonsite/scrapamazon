@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {1..2}
+do
+	wget -S -np -t 7 -w 5 --waitretry=14 --random-wait -m -k -K -e robots=off "http://www.amazon.com/Samsung-XE303C12-A01US-Chromebook-Wi-Fi-11-6-Inch/product-reviews/B009LL9VDG/ref=cm_cr_pr_top_link_$i?ie=UTF8&pageNumber=$i&showViewpoints=0" -o ./myLog.log
+done

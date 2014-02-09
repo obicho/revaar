@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {1..2}
+do
+	httrack http://www.amazon.com/Samsung-XE303C12-A01US-Chromebook-Wi-Fi-11-6-Inch/product-reviews/B009LL9VDG/ref=cm_cr_pr_btm_link_$i?ie=UTF8&filterBy=addOneStar&pageNumber=$i&showViewpoints=0 -O "/Users/cho/Dev/amazonsite" --get  -%v
+done

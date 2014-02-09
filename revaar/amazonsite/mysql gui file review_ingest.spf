@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentFilters</key>
+	<dict/>
+	<key>auto_connect</key>
+	<true/>
+	<key>data</key>
+	<dict>
+		<key>connection</key>
+		<dict>
+			<key>database</key>
+			<string>reva2</string>
+			<key>host</key>
+			<string>127.0.0.1</string>
+			<key>name</key>
+			<string>root@127.0.0.1</string>
+			<key>rdbms_type</key>
+			<string>mysql</string>
+			<key>sslCACertFileLocation</key>
+			<string></string>
+			<key>sslCACertFileLocationEnabled</key>
+			<integer>0</integer>
+			<key>sslCertificateFileLocation</key>
+			<string></string>
+			<key>sslCertificateFileLocationEnabled</key>
+			<integer>0</integer>
+			<key>sslKeyFileLocation</key>
+			<string></string>
+			<key>sslKeyFileLocationEnabled</key>
+			<integer>0</integer>
+			<key>type</key>
+			<string>SPTCPIPConnection</string>
+			<key>useSSL</key>
+			<integer>0</integer>
+			<key>user</key>
+			<string>root</string>
+		</dict>
+		<key>session</key>
+		<dict>
+			<key>connectionEncoding</key>
+			<string>latin1</string>
+			<key>contentFilter</key>
+			<dict/>
+			<key>contentPageNumber</key>
+			<integer>1</integer>
+			<key>contentSelection</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGNjdYJHZlcnNpb25YJG9iamVjdHNZJGFy
+			Y2hpdmVyVCR0b3ASAAGGoK0HCBUWFxgZHSQoLDA0VSRudWxs0wkK
+			CwwNEVYkY2xhc3NXTlMua2V5c1pOUy5vYmplY3RzgAyjDg8QgAKA
+			A4AEoxITFIAFgAaACFR0eXBlVHJvd3NUa2V5c18QJlNlbGVjdGlv
+			bkRldGFpbFR5cGVQcmltYXJ5S2V5ZWREZXRhaWxz0wkKCxobHIAH
+			oKDSHh8gIVokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxl
+			RGljdGlvbmFyeaMgIiNcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00gkL
+			JSaAC6EngAnSCSkqK1lOUy5zdHJpbmeAClJpZNIeHy0uXxAPTlNN
+			dXRhYmxlU3RyaW5noy0vI1hOU1N0cmluZ9IeHzEyXk5TTXV0YWJs
+			ZUFycmF5ozEzI1dOU0FycmF50h4fIjWiIiNfEA9OU0tleWVkQXJj
+			aGl2ZXLRODlUZGF0YYABAAgAEQAaACMALQAyADcARQBLAFIAWQBh
+			AGwAbgByAHQAdgB4AHwAfgCAAIIAhwCMAJEAugDBAMMAxADFAMoA
+			1QDeAPQA+AEFAQ4BEwEVARcBGQEeASgBKgEtATIBRAFIAVEBVgFl
+			AWkBcQF2AXkBiwGOAZMAAAAAAAACAQAAAAAAAAA6AAAAAAAAAAAA
+			AAAAAAABlQ==
+			</data>
+			<key>contentSortColIsAsc</key>
+			<true/>
+			<key>contentViewport</key>
+			<string>{{0, 0}, {745, 481}}</string>
+			<key>isToolbarVisible</key>
+			<true/>
+			<key>table</key>
+			<string>piker</string>
+			<key>view</key>
+			<string>SP_VIEW_CONTENT</string>
+			<key>windowVerticalDividerPosition</key>
+			<real>202</real>
+		</dict>
+	</dict>
+	<key>encrypted</key>
+	<false/>
+	<key>format</key>
+	<string>connection</string>
+	<key>queryFavorites</key>
+	<array/>
+	<key>queryHistory</key>
+	<array>
+		<string>update reviews set source_url = concat('http://www.amazon.com',source_url)
+where source_url not like 'http://www.amazon.com%'</string>
+		<string>select * from reviews_copy where source_url not like 'http://www.amazon.com%'</string>
+		<string>update reviews_copy set source_url = concat('http://www.amazon.com',source_url)
+where source_url not like 'http://www.amazon.com%'</string>
+		<string>select * from reviews where source_url not like 'http://www.amazon.com%'</string>
+		<string>SELECT table_schema                                        "DB Name", 
+   Round(Sum(data_length + index_length) / 1024 / 1024, 1) "DB Size in MB" 
+FROM   information_schema.tables 
+GROUP  BY table_schema</string>
+		<string>update prods
+set is_active = 0
+where fp_heading_category = 'Uniquely NYC'</string>
+		<string>select key_term from prod_summary where prods_fp_id = 978
+group by key_term</string>
+		<string>select key_term from prod_summary where prods_fp_id = 147
+group by key_term</string>
+		<string>select * from prod_summary where prods_fp_id = 147</string>
+		<string>select * from prod_summary where prods_fp_id = 105</string>
+		<string>update prods
+set is_active = 0
+where img_path is null</string>
+		<string>update prods
+set is_active = 0
+where image_path is null</string>
+		<string>select id, p_name, rec_keyphrases, rec_count, not_rec_count, category, not_rec_keyphrases, updated_date, img_path
+from (
+   select *,
+      @num := if(@fp_heading_category = fp_heading_category, @num + 1, 1) as row_number,
+      @category := fp_heading_category as dummy
+  from prods
+  where is_active = 1
+  order by fp_heading_category, rec_count DESC
+) as x where x.row_number &lt;= 3</string>
+		<string>select id, p_name, rec_keyphrases, rec_count, not_rec_count, category, not_rec_keyphrases, updated_date, img_path
+from (
+   select *,
+      @num := if(@fp_heading_category = fp_heading_category, @num + 1, 1) as row_number,
+      @category := fp_heading_category as dummy
+  from prods
+  order by fp_heading_category, rec_count DESC
+  where is_active = 1
+) as x where x.row_number &lt;= 3</string>
+		<string>select id, p_name, rec_keyphrases, rec_count, not_rec_count, category, not_rec_keyphrases, updated_date, img_path
+from (
+   select *,
+      @num := if(@category = category, @num + 1, 1) as row_number,
+      @category := category as dummy
+  from prods
+  order by category, rec_count DESC
+) as x where x.row_number &lt;= 3</string>
+		<string>delete from reviews
+where p_name = 'Samsung Galaxy Note II'</string>
+		<string>delete from review_ingest
+where p_name = 'Samsung Galaxy Note II'</string>
+		<string>INSERT IGNORE INTO prods (p_name)
+SELECT p_name
+FROM review_ingest
+WHERE is_active=1
+GROUP BY p_name</string>
+		<string>INSERT IGNORE INTO prods (p_name)
+SELECT 'HAHA'</string>
+		<string>SELECT p_name
+FROM review_ingest
+WHERE is_active=1
+GROUP BY p_name</string>
+	</array>
+	<key>rdbms_type</key>
+	<string>mysql</string>
+	<key>rdbms_version</key>
+	<string>5.5.27</string>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

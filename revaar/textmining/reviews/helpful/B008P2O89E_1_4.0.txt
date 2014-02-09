@@ -1,0 +1,45 @@
+193 of 202 people found the following review helpful
+4.0 out of 5 stars A Bit of a One-Trick Pony...but What a Trick!, August 19, 2012
+By 
+Barrett Benton (New York) - See all my reviews
+(VINE VOICE)    (REAL NAME)   
+This review is from: Kyocera Hydro Prepaid Android Phone (Boost Mobile) (Wireless Phone Accessory)
+First of all, let's get the "negative" points of this smartphone out of the way, front-and-center:
+
+- The Hydro lacks 4G capability.
+
+- The screen is relatively small (by contemporary standards), and of moderate resolution.
+
+- You get "only" a 1gHz, single-core processor. Heavy gamers won't be pleased.
+
+- The 3.2MP camera (rear-facing-only) isn't much to write home about.
+
+Now, on to the meat of the matter: as a freelance IT person, I've set up scores of iPhones (from the first version up to the 4S), and any number of Android phones for clients needing help getting their heads wrapped around their new, pocketable devices. Me? I hardly felt the need for that much mobile firepower: as a long-retired gamer, I wasn't terribly seduced by large, high-res screens (that's what laptops and tablets are for, right?), and I hardly get off on the idea of watching a feature-length movie on a 4.3-inch screen, high-def or not. I was more than happy with a BlackBerry Curve for my needs ("needs" being defined in my case as: e-mail, texting, IM, Web/data...and, usually, just placing and taking calls wherever I happen to be...yes, a phone!). "A tool, not a toy" has long been my mantra.
+
+That changed a bit when I discovered that the BlackBerry platform doesn't play well with IMAP-based e-mail. I discovered this when I moved to a Gmail account and wanted to take advantage of IMAP's features. (I won't delve into the niceties of IMAP here, so at the risk of sounding rude, Just Bleeping Google It.) The long and short of it is that RIM was of no help to me, and the problem was beyond the realm of my cellular carrier (Boost Mobile). I wanted to stick with my carrier, but what was I going to do?
+
+I'd taken a glance at various Android phones for the better part of a year. Found nothing compelling, and all the phones seemed to cost at least a bit more than I was willing to shell out at a given time. I didn't care a lot about having the biggest screen or the highest resolution; nice as those are, I'd just be paying for stuff that didn't matter much in the main. I *did* care a bunch about e-mail, and it made sense that since Google was responsible for both the Android OS *and* Gmail, it was a no-brainer that the two would meld quite well. But I decided to sit on the fence and suffer quietly with my Curve. (Someone told me "Hey, you can just access Gmail from your 'Berry's browser, right?" Right, except that, if you know anything about the BlackBerry, you also know that doing this totally negates the main reason for sticking with the platform in the first place.)
+
+Along comes the Hydro. The "killer app" for me in this phone's specs wasn't an app at all: this phone was spec'd as watertight, at least down to a meter in water. I've killed at least one phone by drowning, and I'm generally a LOT more careful handling my phones than most people I've observed. This feature alone could overshadow shortcomings such as a lack of 4G or a humongous, max-res screen. It means I can whip the thing out in a driving thunderstorm (or, less dramatically, in the middle of taking a shower), and not fear subjecting the phone to a premature death. It simply makes the phone *useful* in more situations, and under more (and more adverse) conditions than other smartphones...in this case more than almost *any* other smartphone you can name.
+
+Meanwhile: The Hydro is pleasantly light, by way of casing that's entirely plastic. It doesn't have the "sexy" heft or look as a phone with metal wrapping around it, but I'll take light weight (with some structural integrity) over "sexy" (which is subjective, anyway) any day of the week. I will say the Hydro is anything but an eyesore: the worst you might say about it is that it looks somewhat ordinary. Hardly a sin in my mind.
+
+The screen is of decent size, and moderate in resolution, yet quite legible; Web pages come up with reasonable contrast and color, and page downloading, while not lightning-quick, is certainly fast enough for general purposes. Brightness is adjusted automatically based on ambient lighting conditions.
+
+The touch-screen interface is pleasant to use. Note that the Hydro does have off-screen touch-controls at the phone's bottom, even though the latest iterations of the Android OS have largely done away with the need for such ancillary controls. They seem to work well.
+
+And, speaking of the OS: the Hydro comes loaded with Android 4.0.4 (code-named Ice Cream Sandwich...I rather like that name). My exposure to previous iterations of Android have been somewhat limited, but I can say that the overall "feel" of the OS is pleasantly smooth and responsive, and the downloading, launching and moving-around of apps exposed nothing in the way of untoward behavior thus far.
+
+And, those apps...well over half a million so far. Still a fair count behind the iPhone, but as something of an Apple fanboy myself I can tell you that the Android platform has moved well past the "just a contender among many" stage and swinging it's weight just fine, thank you.
+
+As I said, no 4G here...but there's 3G, which does the job rather well (this in spite of Sprint's somewhat-spotty rep in terms of 3G network performance), and wi-fi, and Bluetooth, as well as wi-fi hotspot capability. BT pairing with my Motorola HX-1 headset was painless, although getting the phone to play nice with my Apple AirPort Extreme took a little doing. (Hint: If you haven't done it in a while, check your wireless router for software/firmware updates, and download/install them when available. If not, simply restart the router...that often does the trick.) Overall reception was somewhat better than my BlackBerry Curve 8530, but as the saying goes, YMMV.)
+
+(9/29/12 Addendum: I recently purchased a BlueAnt T1 Bluetooth headset to try out with the Hydro: so far, so good, although one problem I discovered with both headsets is that the voice-dial command voice from the phone - the voice that says "speak now", among other things - is rather low in volume, with no means of adjustment by the user. I've contacted Kyocera about this, since it appears to be an issue with the Voice-Dial app, not the phone itself, and I've been told a fix is in the works. Hardly a deal-breaker IMO, but the fix will make an already pretty-solid phone superb.)
+
+Then there's the price: almost silly-cheap. If you're already using a BlackBerry on Boost, you're in for a treat: normally, buying the phone in-person entails an extra charge for set-up and such; In my case, they simply sold me the phone, transferred my account and had me set up in minutes, no extra charge. Couldn't be happier.
+
+(9/29/12 Addendum: One other "bonus" to not having stuff like 4G or a large, max-res screen is battery life: I've typically gone for over seven hours, utilizing the phone's various functions, and managed to run the battery down to about 25% or so of remaining capacity - rather good stats, compared to most razzle-dazzle phones out out there. Kyocera's included Eco app helps out here.)
+
+Proverbial Bottom Line: if you value function over sheer entertainment value, I can safely say Kyocera's Hydro packs quite a bit of value for the bucks. Don't let the "entry-level" remarks of upcoming reviews scare you off: unless you *have* to have big-screen bling or that sexy silver band to wrap your anxious hands around, I'd say this phone rocks hard enough in its own quiet way. And when you and your friends are stuck in the rain and someone needs to call a car service to save the day, *you* get to play DareDevil without worry.
+
+(UPDATE 02/04/13 - Six Months Out: So far, no major surprises...there have been a few app-related glitches here and there, but nothing especially aggravating. Kyocera just released a firmware/software upgrade which I installed today; So far, the most I can detect is a mild kick in speed, similar to when I've performed firmware upgrades in computers and such. It's taken some rain, some snow, and a few drops to the floor - in and out of the case I bought for it - and it's hanging tough.)

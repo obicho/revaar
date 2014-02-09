@@ -1,0 +1,15 @@
+Files deploy/reva2/reva2/admin.py and reva2/reva2/reva2/admin.py differ
+Files deploy/reva2/reva2/admin.pyc and reva2/reva2/reva2/admin.pyc differ
+Files deploy/reva2/reva2/models.pyc and reva2/reva2/reva2/models.pyc differ
+Files deploy/reva2/reva2/settings.pyc and reva2/reva2/reva2/settings.pyc differ
+Files deploy/reva2/reva2/urls.pyc and reva2/reva2/reva2/urls.pyc differ
+Files deploy/reva2/reva2/views.pyc and reva2/reva2/reva2/views.pyc differ
+Only in deploy/reva2/: .ebextensions
+Only in deploy/reva2/: .elasticbeanstalk
+Only in deploy/reva2/: .git
+Only in deploy/reva2/: .gitignore
+Only in deploy/reva2/: requirements.txt
+Only in deploy/reva2/reva2: .elasticbeanstalk
+Only in deploy/reva2/reva2: .gitignore
+Only in deploy/reva2/reva2: reva2
+Only in reva2/reva2: collocations.py
