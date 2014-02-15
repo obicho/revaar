@@ -1,5 +1,6 @@
 revaar
 ======
+![Revaar](revaar_project.png "Screenshot")
 
 Recommendation summary generator
 
